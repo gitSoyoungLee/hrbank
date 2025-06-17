@@ -1,4 +1,4 @@
-# 🏦 5조 / HRBANK 인적 자원 관리 시스템
+# 🏦 HRBANK 인적 자원 관리 시스템
 <div align ="center">
   
 **HRBANK [🔗 지금 이용해보러가기](https://sb01-hrbank-team05-production.up.railway.app/)**
@@ -8,7 +8,6 @@
 ## 프로젝트 소개
 - **HRBANK**는 기업의 인적 자원을 안전하게 관리하는 서비스입니다.
 - Batch로 데이터를 관리하는 Open EMS입니다.
-- 코드잇 SB1기 프로젝트 입니다.
 
 ## 개발 기간
 - 기능 구현 : 2025.03.13.~ 2025.03.22
